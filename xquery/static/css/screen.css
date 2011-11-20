@@ -1,0 +1,55 @@
+ul.bullets { margin-left:20px;}
+
+#banner { float:left; margin:10px; }
+#subtitle { margin-left:20px; color:#888888; }
+#whoami { float:right; text-align:right; margin:10px; }
+#whoami #picture {float:right; margin-left:10px;}
+#welcome {float:right;}
+#like { float:left;}
+#powered { text-align:right; float:right;}
+#footer {font-size:0.9em; color:#555555;  margin-top:30px; margin-left:10px; margin-right:10px;}
+
+#body {margin-left:50px;}
+#main {float:left; text:align:left;}
+#right{ border-left:1px solid #CCCCCC; margin-bottom:10px; float:right; width:200px; text-align:right;}
+
+#friends {margin:10px;}
+#friends #picture {float:right; margin-left:10px;}
+#friends #name {float:right;}
+
+.entry input {
+	background-color: #FFC;
+	border: 1px solid gray;
+	padding: 2px;
+}
+.entry input.disabled {
+	background-color: #F4F8FF;
+	border: 1px solid gray;
+	padding: 2px;
+	font-style:italic;
+	color: #333344;
+}
+
+
+div.actionbox { 
+	float:left;
+	width:400px;
+	padding:20px;
+	margin:20px; 
+	border:1px solid #555555; 
+	border-radius:15px; 
+	box-shadow: 5px 5px 5px #BBBBBB;
+	-moz-border-radius:15px;
+}
+
+div.actionbox input.text {
+	background-color: #FFC;
+	border: 1px solid gray;
+	padding: 2px;
+}
+
+
+.appuser {color:blue;}
+.italic { color:#888888; font-style:italic;}
+.error { color:red;}
+.clear { clear:both; overflow:hidden; height:0px; }

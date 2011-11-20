@@ -1,0 +1,32 @@
+body{
+  -webkit-text-size-adjust:none;
+  font-family:Helvetica, Arial, Verdana, sans-serif;
+}
+
+#subtitle { margin-left:10px; color:#888888; }
+#banner { float:left; }
+#bannerpic {width:250px;}
+#whoami { float:right; text-align:right; margin-top:5px; margin-right:5px; }
+
+#body { margin-left:5px; margin-right:5px;}
+
+
+#right{ border-top:1px solid #CCCCCC; margin-top:10px; padding-top:10px;}
+
+
+div.actionbox {
+	width:300px;
+	padding:20px;
+	border:1px solid #555555; 
+	border-radius:15px; 
+	box-shadow: 5px 5px 5px #BBBBBB;
+	-moz-border-radius:15px;
+	margin-bottom:10px;
+}
+
+.app-button{ margin-bottom:10px;}
+
+.appuser {color:blue;}
+.italic { color:#888888; font-style:italic;}
+.error { color:red;}
+.clear { clear:both; overflow:hidden; height:0px; }
